@@ -29,5 +29,9 @@ bin/
 .DS_Store
 
 ### VS ###
-*.csproj
+.editorconfig
+*.csproj*
+*.sln
+app.config
 .vs/
+obj/
